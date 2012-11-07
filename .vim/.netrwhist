@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/nebulosity/kate_art/.git'
+let g:netrw_dirhist_2='/Users/kris/.rvm/gems/ruby-1.9.3-p194@upgrade-me/gems/adfitech-2.5.2'
+let g:netrw_dirhist_3='/workspace/ruby/jobs'
